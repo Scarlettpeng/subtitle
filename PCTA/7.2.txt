@@ -2440,7 +2440,8 @@ sysbench测试的内容包括而
 
 606
 00:33:09,000 --> 00:33:11,670
-。。。。
+point_select、read_only、update_index、read_write、write_only
+
 
 607
 00:33:11,760 --> 00:33:15,240
