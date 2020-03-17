@@ -2445,7 +2445,6 @@ point_select、read_only、update_index、read_write、write_only
 
 607
 00:33:11,760 --> 00:33:15,240
-。。。。。
 
 608
 00:33:15,450 --> 00:33:19,590
